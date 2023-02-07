@@ -18,8 +18,8 @@ I am Android Developer and passionate to learn and build android app.
 <br>
 
 ## :earth_asia: Connect with me:
-<a href="https://linkedin.com/in/www.linkedin.com/in/kmrsushil10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kmrsushil10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kmrsushil10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kmrsushil10/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kmrsushil10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kmrsushil10" height="30" width="40" /></a>
+<a href="https://leetcode.com/kmrsushil10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kmrsushil10/" height="30" width="40" /></a>
 
 
 
