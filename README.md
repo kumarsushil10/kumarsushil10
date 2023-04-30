@@ -9,11 +9,11 @@ I am Android Developer and passionate to learn and build android app.
 
 <br>
 
-![profile views](https://komarev.com/ghpvc/?username=sushilgitter&color=blue)
+![profile views](https://komarev.com/ghpvc/?username=kumarsushil10&color=blue)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilgitter&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Sushil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sushilgitter)
+![Sushil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=kumarsushil10)
 
 <br>
 
