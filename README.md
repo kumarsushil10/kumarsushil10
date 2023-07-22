@@ -11,15 +11,14 @@ I am Android Developer and passionate to learn and build android app.
 
 ![profile views](https://komarev.com/ghpvc/?username=kumarsushil10&color=blue)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10&hide=php&layout=compact)]
 ![Sushil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=kumarsushil10)
 
 <br>
 
 ## :earth_asia: Connect with me:
-<a href="https://linkedin.com/in/kmrsushil10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kmrsushil10" height="30" width="40" /></a>
-<a href="https://leetcode.com/kmrsushil10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kmrsushil10/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kmrsushil10" target="blank"><img align="center" alt="www.linkedin.com/in/kmrsushil10" height="30" width="40" /></a>
+<a href="https://leetcode.com/kmrsushil10/" target="blank"><img align="center" alt="https://leetcode.com/kmrsushil10/" height="30" width="40" /></a>
 
 
 
