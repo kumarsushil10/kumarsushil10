@@ -11,7 +11,7 @@ I am Android Developer and passionate to learn and build android app.
 
 ![profile views](https://komarev.com/ghpvc/?username=kumarsushil10&color=blue)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10&hide=php&layout=compact)]
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10&hide=php&layout=compact)
 ![Sushil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=kumarsushil10)
 
 <br>
