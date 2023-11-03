@@ -16,9 +16,7 @@ I am Android Developer and passionate to learn and build android app.
 
 ## :earth_asia: Connect with me:
 <a href="https://linkedin.com/in/kmrsushil10"><img height=30 align="center" boder-radius=50  alt="https://linkedin.com/kmrsushil10/" src="https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge&logo=linkedIn&logoColor=white" /></a>
-
-
-![Images-with-rounded-corners-and-shadow](<a href="https://leetcode.com/kmrsushil10/"><img height=30 align="center"  alt="https://leetcode.com/kmrsushil10/" src="https://img.shields.io/badge/leetcode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=red" /></a>)
+<a href="https://leetcode.com/kmrsushil10/"><img height=30 align="center"  alt="https://leetcode.com/kmrsushil10/" src="https://img.shields.io/badge/leetcode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=red" /></a>
 
 
 
