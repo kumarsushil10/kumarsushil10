@@ -26,11 +26,11 @@ I am Android Developer and passionate to learn and build android app.
 <br>
 
 ## :rocket: Languages :-
+<a href="https://docs.oracle.com/en/java/"><img height=30 align="center" src="https://img.shields.io/badge/Java-B125EA?style=for-the-badge&logo=java&logoColor=f34de4" /></a>
+<a href="https://kotlinlang.org/docs/home.html"><img height=30 align="center" src="https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=3670A0" /></a>
+<a href="https://docs.python.org/3/"><img height=30 align="center" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+<a href="https://devdocs.io/cpp/"><img height=30 align="center" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C&logoColor=red" /></a>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=3670A0)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=red)
-![Java](https://img.shields.io/badge/Java-B125EA?style=for-the-badge&logo=java&logoColor=f34de4)
 
 
 
