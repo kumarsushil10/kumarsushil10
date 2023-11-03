@@ -2,16 +2,14 @@
 
 I am Android Developer and passionate to learn and build android app.
 
-
-
-
-
-
 <br>
 
 ![profile views](https://komarev.com/ghpvc/?username=kumarsushil10&color=blue)
+<br>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10&hide=php&layout=compact)
+<br>
+
 ![Sushil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=kumarsushil10)
 
 <br>
@@ -28,6 +26,7 @@ I am Android Developer and passionate to learn and build android app.
 <br>
 
 ## :rocket: Languages :-
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=3670A0)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=red)
