@@ -15,8 +15,10 @@ I am Android Developer and passionate to learn and build android app.
 <br>
 
 ## :earth_asia: Connect with me:
-<a href="https://linkedin.com/in/kmrsushil10" target="blank"><img align="center" alt="www.linkedin.com/in/kmrsushil10" height="30" width="40" /></a>
-<a href="https://leetcode.com/kmrsushil10/" target="blank"><img align="center" alt="https://leetcode.com/kmrsushil10/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kmrsushil10"><img height=30 align="center" boder-radius=50  alt="https://linkedin.com/kmrsushil10/" src="https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge&logo=linkedIn&logoColor=white" /></a>
+
+
+![Images-with-rounded-corners-and-shadow](<a href="https://leetcode.com/kmrsushil10/"><img height=30 align="center"  alt="https://leetcode.com/kmrsushil10/" src="https://img.shields.io/badge/leetcode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=red" /></a>)
 
 
 
@@ -26,7 +28,7 @@ I am Android Developer and passionate to learn and build android app.
 <br>
 
 ## :rocket: Languages :-
-<a href="https://docs.oracle.com/en/java/"><img height=30 align="center" src="https://img.shields.io/badge/Java-B125EA?style=for-the-badge&logo=java&logoColor=f34de4" /></a>
+<a href="https://docs.oracle.com/en/java/"><img height=30 align="center" src="https://img.shields.io/badge/Java-B125EA?style=for-the-badge&logo=Java&logoColor=f34de4" /></a>
 <a href="https://kotlinlang.org/docs/home.html"><img height=30 align="center" src="https://img.shields.io/badge/Kotlin-E24462?style=for-the-badge&logo=kotlin&logoColor=3670A0" /></a>
 <a href="https://docs.python.org/3/"><img height=30 align="center" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 <a href="https://devdocs.io/cpp/"><img height=30 align="center" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C&logoColor=red" /></a>
@@ -46,7 +48,6 @@ I am Android Developer and passionate to learn and build android app.
 <img align="left"  alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 
  
-  
-  
+
   
   
