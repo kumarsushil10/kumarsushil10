@@ -25,15 +25,16 @@ I am an Android Developer and passionate about learning and building Android app
 <br>
 
 ## :rocket: Tools:-
-![Images-with-rounded-corners-and-shadow](https://www.vectorlogo.zone/logos/android/android-icon.svg)
-![Images-with-rounded-corners-and-shadow](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
-![Images-with-rounded-corners-and-shadow](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Images-with-rounded-corners-and-shadow](https://www.vectorlogo.zone/logos/github/github-icon.svg)
+<a href=""><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /></a>
+
 
 
 <br>
 
-## :rocket: Pinned:-
+## Pinned:-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumarsushil10\&repo=journal-note)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kumarsushil10\&repo=social-and-shopping-ui-android)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JunkieLabs\&repo=android-3d-ads-template)
