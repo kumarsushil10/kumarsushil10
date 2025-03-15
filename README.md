@@ -1,31 +1,39 @@
-### Hi there 👋
-
-I am an Android Developer and passionate about learning and building Android apps.
-
 ![profile views](https://komarev.com/ghpvc/?username=kumarsushil10&color=blue)
+### Hi there 👋
+### I will introduce myself by code:
+```python
+class SushilKumar:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10\&layout=donut\&theme=radical)
+    def __init__(self):
+        self.name = "Sushil kumar"
+        self.developer = True
+        self.aiEngineer = True
+        self.mlEngineer = True
+        self.languages = ["hindi", "english"]
 
-![Sushil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=kumarsushil10\&rank_icon=github\&hide=issues\&show_icons=true\&theme=radical)
+    def say_hi(self):
+        print("I'm glad you read my intro! I’d love for you to check out my repository as well.")
 
-<br>
+me = SushilKumar()
+me.say_hi()
+```
+<table width="100%" style="border-collapse: collapse; border: none; border-radius: 15px; overflow: hidden;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsushil10&layout=donut&theme=radical" height="200px" style="border-radius: 15px;"/>
+    </td>
+    <td width="30px" style="border: none;"></td> 
+    <td width="30px" style="border: none;"></td>
+    <td width="30px" style="border: none;"></td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=kumarsushil10&rank_icon=github&hide=issues&show_icons=true&theme=radical" height="200px" style="border-radius: 15px;"/>
+    </td>
+  </tr>
+</table>
 
 ##  Connect with me:
-<a href="https://linkedin.com/in/kmrsushil10"><img width="60" height="60"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
+<a href="https://linkedin.com/in/kumarsushil10"><img width="40" height="40"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
 
-<br>
 
-## :rocket: Languages:-
-<a href="https://docs.oracle.com/en/java/"><img width="60" height="60"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /></a>
-<a href="https://kotlinlang.org/docs/home.html"><img width="60" height="60"  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></a>
-<a href="https://docs.python.org/3/"><img width="60" height="60"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /></a>
-
-<br>
-
-## :rocket: Tools:-
-<a href=""><img width="60" height="60" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /></a>
-<a href=""><img width="60" height="60" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
-<a href=""><img width="60" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
-<a href=""><img width="60" height="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /></a>
 
 
