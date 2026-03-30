@@ -104,13 +104,13 @@
 </p>
 
 
-
+https://leetcode.com/u/Kmrsushil10/
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/kumarsushil10" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>&nbsp;
-<a href="https://www.leetcode.com/kumarsushil10" target="blank">
+<a href="https://leetcode.com/u/Kmrsushil10/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
 </a>
 </p>
