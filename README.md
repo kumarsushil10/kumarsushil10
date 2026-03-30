@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sushil Kumar</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kumarsushil10&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+<h1 align="left">Hi 👋, I'm Sushil Kumar</h1>
+<h3 align="left">A passionate Artificial Intelligence Engineer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsushil10" />
 </p>
 
----
 
-## 🛠️ Languages and Tools 🚀
 
+
+
+
+
+
+## Languages and Tools
 <p align="left">
-
 <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </a>&nbsp;
@@ -50,12 +52,14 @@
 <a href="https://huggingface.co/" target="_blank">
   <img src="https://cdn.simpleicons.org/huggingface" width="40"/>
 </a>
-
 </p>
 
 
-<p align="left">
 
+
+
+
+<p align="left">
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </a>&nbsp;
@@ -71,12 +75,13 @@
 <a href="https://aws.amazon.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </a>
-
 </p>
 
 
-<p align="left">
 
+
+
+<p align="left">
 <a href="https://dart.dev" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
 </a>&nbsp;
@@ -96,17 +101,15 @@
 <a href="https://developer.android.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
 </a>
-
 </p>
 
 
-## 🌐 Connect with me
 
+## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/kumarsushil10" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>&nbsp;
-
 <a href="https://www.leetcode.com/kumarsushil10" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
 </a>
