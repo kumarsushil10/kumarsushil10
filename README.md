@@ -104,7 +104,6 @@
 </p>
 
 
-https://leetcode.com/u/Kmrsushil10/
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/kumarsushil10" target="blank">
