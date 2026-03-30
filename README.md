@@ -1,21 +1,19 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kumarsushil10&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-<h1 align="left">Hi 👋, I'm Sushil Kumar</h1>
-<h3 align="left">A passionate Artificial Intelligence Engineer</h3>
+## Hi 👋, I'm Sushil Kumar
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsushil10" />
-</p>
+🤖 AI Engineer  
+💡 Passionate about building intelligent systems  
+🧠 Love solving complex problems using AI/ML technologies  
+🚀 Continuously learning and exploring new advancements in AI  
+✨ Turning ideas into intelligent solutions
 
-
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kumarsushil10&label=Profile%20views&color=0e75b6&style=flat" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsushil10&date_format=j%20M%5B%20Y%5D" /></p>
 
 
 
 
 
-## Languages and Tools
+## 👨‍🎨 Languages and Tools
 <p align="left">
 <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
